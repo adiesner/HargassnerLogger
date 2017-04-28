@@ -1,0 +1,13 @@
+# Site settings
+title: HargassnerLogger
+tag_text: HargassnerLogger
+description: Extracting data from a Hargassner Pellet Heating
+baseurl: "/HargassnerLogger"
+permalink: pretty
+
+font-awesome-include: true
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
