@@ -43,7 +43,9 @@ z 15:48:13 Zündung Einschub
 |9   |30.4|Float|Vorlauf Soll| °C |
 |10   |0.0|Float|?|  |
 |11   |48|Int|Boiler 1| °C |
-|12   |125|Int|...| ... |
 |83  |49588|Int|Betriebsminuten Einschubschnecke| minutes|
 |84  |5289|Int|Pelletsverbrauch gesamt|kg|
 |85  |1190|Int|Pelletbestand|kg|
+|87  |b0|Hex?|?|?|
+|88  |c|Hex?|?|?|
+|89  |8b|Hex?|?|?|
